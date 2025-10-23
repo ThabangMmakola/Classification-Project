@@ -137,4 +137,4 @@ Congratulations! You've now officially deployed your first web application!
 
 | Name                                                                                        |  Email              
 |---------------------------------------------------------------------------------------------|--------------------             
-| [Oludare Adekunle](https://github.com/DareSandtech)                                         | oadekunle@sandtech.com
+| [Thabang Mmakola](https://github.com/DareSandtech)                                         |   thabanvdanny@gmail.com
